@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LocalStorageToDo/static/css/main.95a93a97.css",
+    "main.js": "/LocalStorageToDo/static/js/main.125c0306.js",
+    "index.html": "/LocalStorageToDo/index.html",
+    "main.95a93a97.css.map": "/LocalStorageToDo/static/css/main.95a93a97.css.map",
+    "main.125c0306.js.map": "/LocalStorageToDo/static/js/main.125c0306.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95a93a97.css",
+    "static/js/main.125c0306.js"
+  ]
+}
